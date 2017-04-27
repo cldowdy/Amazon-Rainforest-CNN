@@ -1,9 +1,5 @@
 # README #
 
-I just remembered that I forgot to do this. 
-
-I just randomly assigned three groups. They will work on assignment09.
-
 There is no class on Monday or Wednesday (Bacc days). However, I would like this assignment to be due on Friday (5/5). It should not be a great load, and it overlaps with individual Assignment08. Assignment08 should not be a great load either and is due on Sunday night (4/30). 
 
 In Assignment09 I would like you to read Kaggle Amazon data (on dsgpu01 at /gpudata/kaggle/amazon) into TensorFlow. I want each group to submit code to do so on one group branch.
