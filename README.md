@@ -15,16 +15,21 @@ On Friday (5/5) I would like each group to give a short presentation on (1) how 
 -----------
 
 Group 1:
- Caleb Dowdy
- Charles Edelson
- Thomas Bekman
- Brendan Legel
+
+- Caleb Dowdy
+- Charles Edelson
+- Thomas Bekman
+- Brendan Legel
+
 Group 2:
- Aaron Niskin
- Richard Shlyakhov
- Lance Price
+
+- Aaron Niskin
+- Richard Shlyakhov
+- Lance Price
+
 Group 3:
- Christopher Towne
- Nicole Navarro
- Matthew McAvoy
- Christopher Leonard
+
+- Christopher Towne
+- Nicole Navarro
+- Matthew McAvoy
+- Christopher Leonard
