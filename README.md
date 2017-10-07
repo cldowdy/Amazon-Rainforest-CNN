@@ -1,31 +1,9 @@
-# README #
+# Understanding the Amazon from Space
 
-There is no class on Monday or Wednesday (Bacc days). However, I would like this assignment to be due on Friday (5/5). It should not be a great load, and it overlaps with individual Assignment08. Assignment08 should not be a great load either and is due on Sunday night (4/30). 
+Experts estimate that the world loses 48 football fields of forest every minute. With that in mind the Amazon rainforest represents a substantial portion of the worlds forests. 
 
-In Assignment09 I would like you to read Kaggle Amazon data (on dsgpu01 at /gpudata/kaggle/amazon) into TensorFlow. I want each group to submit code to do so on one group branch.
+[Planet](https://www.planet.com/company/), open-sourced roughly 54Gb of satellite imagery taken over the Amazon rainforest. The goal was simple: use the satellite data to track the human footprint in the Amazon rainforest. 
 
-You may find this useful (https://www.tensorflow.org/programmers_guide/reading_data)
+This repostitory documents my use of TensorFlow to build a 3-layer convolutional neural network to classify satellite imagery. 
 
-On Friday (5/5) I would like each group to give a short presentation on (1) how they imported the data, (2) description of the data, and (3) a proposed plan on attacking the problem.
-
------------
-
-Group 1:
-
-- Caleb Dowdy
-- Charles Edelson
-- Thomas Bekman
-- Brendan Legel
-
-Group 2:
-
-- Aaron Niskin
-- Richard Shlyakhov
-- Lance Price
-
-Group 3:
-
-- Christopher Towne
-- Nicole Navarro
-- Matthew McAvoy
-- Christopher Leonard
+For more information please reference: [Understanding the Amazon from space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space)
