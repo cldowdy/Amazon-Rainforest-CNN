@@ -1,9 +1,7 @@
 # ORIGINAL RUNTIME 3m46s
 # Added third layer and reduced the number of features originally made to 18
 # NEW RUNTIME: 3m28s
-# ACCURACY: 0.9935 (> .92, so I can still show my face in public!) 
-# Public face showing may need to be put on standby
-
+# ACCURACY: 0.9935 
 
 # Copyright 2015 The TensorFlow Authors. All Rights Reserved.
 #
