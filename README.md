@@ -1,6 +1,6 @@
 # Understanding the Amazon from Space
 
-Experts estimate that the world loses 48 football fields of forest every minute. With that in mind the Amazon rainforest represents a substantial portion of the worlds forests. 
+Experts estimate that the world loses 48 football fields of forest every minute. The Amazon rainforest represents over half of the worlds remaining forests. 
 
 [Planet](https://www.planet.com/company/), open-sourced roughly 54Gb of satellite imagery taken over the Amazon rainforest. The goal was simple: use the satellite data to track the human footprint in the Amazon rainforest. 
 
